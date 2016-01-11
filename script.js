@@ -4,7 +4,7 @@ var count = 0;
 
 while(input != ""){
 	input = prompt("Enter item");
-
+	//completed
 	
 }
 
